@@ -1,0 +1,14 @@
+﻿  Borrow.cpp
+  CustmerDatabase.cpp
+  CustomerFactory.cpp
+  History.cpp
+  Inventory.cpp
+  MovieFactory.cpp
+  Return.cpp
+  TransactionFactory.cpp
+  Transactions.cpp
+  Generating Code...
+C:\Users\steve\OneDrive\Desktop\Program4\TransactionFactory.cpp(122): warning C4715: 'TransactionFactory::storeTransaction': not all control paths return a value
+C:\Users\steve\OneDrive\Desktop\Program4\MovieFactory.cpp(90): warning C4715: 'MovieFactory::storeMovie': not all control paths return a value
+C:\Users\steve\OneDrive\Desktop\Program4\CustmerDatabase.cpp(36): warning C4715: 'CustomerDatabase::retrieve': not all control paths return a value
+  Program4_V2.vcxproj -> C:\Users\steve\OneDrive\Desktop\Program4\Debug\Program4_V2.exe
